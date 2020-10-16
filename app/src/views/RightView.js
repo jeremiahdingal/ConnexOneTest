@@ -5,8 +5,6 @@ import axios from 'axios';
 import {
   LiveProvider,
   LiveEditor,
-  LiveError,
-  LivePreview
 } from 'react-live'
 import LoadingOverlay from 'react-loading-overlay';
 
